@@ -6,10 +6,27 @@ h2 {
   color: red;
 }
 p {
-  color: crimson;
+  color: black;
 }
 body {
-  background-color: salmon;
+  background-color: white;
   font-family: sans-serif;
   text-align: center;
+}
+
+.intro {
+  font-style: italic;
+}
+
+.author {
+  color: red;
+}
+p.author {
+  font-size: 12px;
+}
+.line1 {
+color: red;
+}
+#line2 {
+color: blue;
 }
